@@ -66,7 +66,7 @@ class potPreset(trackNumber: Int) {
             Long = 60
             BPM = 145
             beatQuantity = (Long.toFloat() / 60 * BPM).toInt()
-            trackId = R.raw.thisfeeling
+            trackId = R.raw.firstblueski
         }
         else if (trackNumber == 5)
         {
